@@ -1,1 +1,1 @@
-# image-to-calendar
+# schedule-to-calendar
